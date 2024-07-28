@@ -1,2 +1,2 @@
 # teaTalk
-一个的虚拟故事场景主题茶话roundTableParty，试图和以往流行的论坛博客设计模式分离，以大观园偶结海棠社和圆桌会议平等机会结合为思路。
+teaParty，转到缘续fork chitchat 论坛那个谷仓去了，保留一片白茫茫大地。
